@@ -18,3 +18,9 @@ body {
     width:750px;
     max-width:750px;
 }
+
+p {
+	width:75%;
+	padding:10px;
+	font-size:15px;
+}

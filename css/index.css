@@ -16,19 +16,3 @@ a {
 	font-size:30px;
 	margin:10px;
 }
-
-a:link {
-    color: #CCCCCC;
-}
-
-a:visited {
-    color: #CCCCCC;
-}
-
-a:hover {
-    color: #CCCCCC;
-}
-
-a:active {
-    color: #CCCCCC;
-}

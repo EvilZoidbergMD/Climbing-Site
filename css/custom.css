@@ -56,18 +56,62 @@ a {
     margin:10px;
 }
 
-a:link {
-    color: #CCCCCC;
+a.about:link {
+    color: #CC66FF;
 }
 
-a:visited {
-    color: #CCCCCC;
+a.about:visited {
+    color: #CC66FF;
 }
 
-a:hover {
-    color: #CCCCCC;
+a.about:hover {
+    color: #CC66FF;
 }
 
-a:active {
-    color: #CCCCCC;
+a.about:active {
+    color: #CC66FF;
+}
+
+a.prices:link {
+    color: #FFFF85;
+}
+
+a.prices:visited {
+    color: #FFFF85;
+}
+
+a.prices:hover {
+    color: #FFFF85;
+}
+
+a.prices:active {
+    color: #FFFF85;
+}
+
+a.team:link {
+    color: #75FF75;
+}
+
+a.team:visited {
+    color: #75FF75;
+}
+
+a.team:hover {
+    color: #75FF75;
+}
+
+a.team:active {
+    color: #75FF75;
+}
+
+.about {
+    color:#CC66FF;
+}
+
+.prices {
+    color:#FFFF85;
+}
+
+.team {
+    color:#75FF75;
 }

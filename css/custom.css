@@ -1,6 +1,15 @@
 body {
-    padding-top:50px;
+    padding-top:75px;
     padding-bottom:50px;
+    background-color:#CCCCCC;
+}
+
+.navbar {
+    background-color:#1F1F1F;
+}
+
+.navbar-logo {
+    height:75px;
 }
 
 .header {
@@ -19,8 +28,46 @@ body {
     max-width:750px;
 }
 
+.carousel-control.left, .carousel-control.right {
+    background-image: none
+}
+
 p {
 	width:75%;
 	padding:10px;
 	font-size:15px;
+    color:#000000;
+}
+
+li {
+    color:#000000;
+}
+
+form {
+    color:#000000;
+}
+
+h1 {
+    color:#000000;
+}
+
+a {
+    font-size:30px;
+    margin:10px;
+}
+
+a:link {
+    color: #CCCCCC;
+}
+
+a:visited {
+    color: #CCCCCC;
+}
+
+a:hover {
+    color: #CCCCCC;
+}
+
+a:active {
+    color: #CCCCCC;
 }
